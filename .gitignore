@@ -2,4 +2,13 @@
 differential-equations/models/*
 differential-equations/runs/*
 differential-equations/__pycache__/*
+image-recognition/models/*
+image-recognition/runs/*
+image-recognition/__pycache__/*
+image-recognition/plots/*
+image-recognition/tensorboard_csv/*
+image-recognition/toy-model/__pycache__/*
+image-recognition/toy-model/images/*
+
+
 *.DS_Store

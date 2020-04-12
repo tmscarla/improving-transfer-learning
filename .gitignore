@@ -1,0 +1,5 @@
+*/.idea/*
+differential-equations/models/*
+differential-equations/runs/*
+differential-equations/__pycache__/*
+*.DS_Store

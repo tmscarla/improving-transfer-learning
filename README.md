@@ -5,10 +5,10 @@
 
 # Improving Domain-specific Transfer Learning for Image recognition and Differential Equations
 
-This repository contains my Master's thesis in Computer Engineering at Politecnico di Milano, developed in collaboration with Harvard University.
+This repository contains my Master's thesis in Computer Engineering at Politecnico di Milano, developed in collaboration with the Institute of Applied and Computational Science (IACS) at Harvard University.
 
 
-## Abstract
+## Context and problem statement
 
 
 ## Proposed solution

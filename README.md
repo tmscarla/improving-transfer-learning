@@ -6,3 +6,29 @@
 # Improving Domain-specific Transfer Learning for Image recognition and Differential Equations
 
 This repository contains my Master's thesis in Computer Engineering at Politecnico di Milano, developed in collaboration with Harvard University.
+
+
+## Abstract
+
+
+## Proposed solution
+
+### Image recognition
+
+### Differential equations
+
+
+## Thesis structure
+The structure of the thesis is organized as follows:
+ * **Background:** defines and explains the background knowledge and concepts on which this thesis is based on.
+ * **Related Work:** provides an overview of other studies in the literature that addressed the same problem that we have covered.
+ * **Methodology:** explains the methodology we followed in our research, describing each step in details.
+ * **Implementation:** describes the major technologies, libraries and tools we employed, along with deployment strategies.
+ * **Experiments:** is devoted to show the outcomes of the experiments performed to validate our approaches.
+ * **Conclusion:** wraps up the discussion with concluding remarks and advises possible future works to be carried on.
+ 
+ 
+## Repository overview
+
+
+## Collaborators

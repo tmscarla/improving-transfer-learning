@@ -32,3 +32,4 @@ The structure of the thesis is organized as follows:
 
 
 ## Collaborators
+* **[Alessandro Paticchio](https://github.com/alessandropaticchio)**

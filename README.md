@@ -33,7 +33,13 @@ The structure of the thesis is organized as follows:
  
  
 ## Repository overview
-This repository is structured in the following way:
+In this repository, in the root level, you can find the pdf version of the thesis, the Power Point final presentation and two different folders which gather the code for the image recognition and the differential equations scenario. More specifically:
+* /image-recognition
+  * data: contains all the images of the different datasets used in our experiments
+  * *constants.py*: contains all the constants used in the whole project
+  * *datasets.py*: download datasets (if not present in the data folder) and split them into train/validation
+* /differential-equations
+  * *constants.py*: contains all the constants used in the whole project
 
 
 ## Collaborators

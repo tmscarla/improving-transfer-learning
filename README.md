@@ -18,9 +18,16 @@ This thesis explores the field of transfer learning in two very different scenar
 ### Image recognition
 In the image recognition task, which is a supervised learning scenario, we focus on the problem of data impact in a transfer learning setting. In this scenario, we developed different criteria to select a subsample (i.e. perform a data selection) of the target dataset, in order to train in a smarter and faster way. We tested the different criteria on a variety of combinations of datasets, distortions and models, finding that results are poorly generalizable.
 
+<p align="center">
+  <img width="60%" src="https://github.com/tmscarla/improving-transfer-learning/blob/master/img/embedding_shift.png">
+</p>
+
 ### Differential equations
 In the scenario of resolution of differential equations, instead, we have no actual data, hence we focused on the problem of the perturbation of the initial conditions and the parameters of the equations, investigating how transfer learning helps with this particular type of distortions, and proposing new network architectures. We show how transfer learning accelerates the resolution of several systems of differential equations and that it becomes even more helpful with our modifications to the source-trained network.
 
+<p align="center">
+  <img width="60%" src="https://github.com/tmscarla/improving-transfer-learning/blob/master/img/nn_architecture.png">
+</p>
 
 ## Thesis structure
 The structure of the thesis is organized as follows:
